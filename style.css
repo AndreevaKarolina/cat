@@ -1,0 +1,81 @@
+.body,
+.footer,
+.main,
+.section,
+.nobase {
+    display: flex;
+}
+
+.body,
+.section {
+    flex-direction: column;
+}
+
+.header,
+.footer {
+    background: #c9c8c8;
+    height: 80px;
+}
+
+.body {
+    justify-content: space-between;
+    margin: 0;
+    min-height: 100vh;
+}
+
+.footer,
+.nobase {
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.flexfooter {
+    background: white;
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+}
+
+
+
+.aside {
+    background: #a2ecc1;
+    width: 400px;
+    height: calc(100vh - 120px);
+}
+
+.content,
+.section,
+.base {
+    width: 100%;
+}
+
+.content,
+.base {
+    background: #fffacb;
+}
+
+.base {
+    height: 50%;
+}
+
+.nobase {
+
+    align-items: stretch;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.container {
+    background: #fcef79;
+    margin: 10px;
+    height: 120px;
+    width: 40%;
+}
+
+
+.one {
+    width: 90%;
+}
