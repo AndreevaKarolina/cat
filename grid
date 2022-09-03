@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+</head>
+<link href="style.css" rel="stylesheet">
+
+<body class="body">
+    <header class="header">
+
+    </header>
+    <div class="content">
+        <div class="block bl1"></div>
+        <div class="block"></div>
+        <div class="block"></div>
+        <div class="block"></div>
+    </div>
+    <div class="aside"></div>
+
+    <footer class="footer">
+        <div class="flexfooter "></div>
+        <div class="flexfooter"></div>
+        <div class="flexfooter"></div>
+        <div class="flexfooter"></div>
+    </footer>
+</body>
+
+</html>
