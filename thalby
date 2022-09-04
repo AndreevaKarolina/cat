@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<link href="thalby.css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+
+<body class="body">
+    <header class="header">
+        <div class="nav">
+            <div class="menu1">Shop</div>
+            <div class="menu2">Collections</div>
+            <div class="menu3">Try a Free Guide </div>
+            <div class="menu4">Stories</div>
+            <img class="menu" src="images/logo.png" alt="logo">
+        </div>
+    </header>
+    <main class="main">
+        <div class="article">
+            <div class="fall">Fall deeper in love with humanity.</div>
+            <div class="get">Get to know the world through our concise, informative and inspiring guides.</div>
+            <img class="img1" src="images/image1.png" alt="phone">
+        </div>
+        <div class="div2">
+            <div class="our">Our guides explain countries and cultures.</div>
+            <div class="are">Are you curious about the world around you? Our guides are for smart global citizens, world
+                travelers and
+                engaged residents who want to gain a deeper understanding of the cultures and societies they care about.
+            </div>
+            <div class="as">Available as ebooks here and on Amazon.</div>
+        </div>
+        <h2>Our best sellers</h2>
+        <div class="phone">
+            <div class="a1">
+                <img src="images/image2.png" alt="men">
+                <h6>Thalby Guide to French Culture and Heritage</h6>
+                <p>USD 6.99</p>
+            </div>
+            <div class="a2"><img src="images/image3.png" alt="women">
+                <h6>Thalby Guide to French People and Society</h6>
+                <p>USD 6.99</p>
+            </div>
+            <div class="a3"><img src="images/image4.png" alt="women2">
+                <h6>Thalby Guide to German Culture and Heritage</h6>
+                <p>USD 6.99</p>
+            </div>
+        </div>
+        </div>
+        <div class="sect1">
+            <img class="rectangle" src="images/Rectangle.png" alt="Rectangle">
+            <div class="people">
+                <h3>People and Society</h3>
+                <p>Our guides to society deliver all the social insight you need, helping you understand how
+                    people live,
+                    love and play today and why communities are the way they are.</p>
+            </div>
+
+        </div>
+        <div class="sect2">
+            <div class="culture">
+                <h3>Culture and Heritage</h3>
+                <p>As well as covering heritage and tradition, our guides to culture introduce you to the designers,
+                    artists
+                    and chefs creating at the forefront of today's culture.</p>
+            </div>
+            <img src="images/sect2.png" alt="phoneman">
+        </div>
+
+        <h2>Each Thalby guide includes interviews with a range of fascinating voices, such as</h2>
+        <div class="about">
+            <div class="camille">
+                <img src="images/free.png" alt="Camille">
+                <h6>"I don’t like things to be conventional. If it’s too nice, I bring disorder."</h6>
+                <p>Camille Muller,Landscape Designer, France</p>
+            </div>
+            <div class=sonia>
+                <img src="images/one.png" alt="Sonia">
+                <h6>"Magic is not magic in the sense that I can just wish for anything."</h6>
+                <p>Sonia Kowalewski,Witch, Germany</p>
+            </div>
+            <div class="lilly">
+                <img src="images/two.png" alt="Lilly">
+                <h6>"I was eight years old when I entered my first competition. I won it."</h6>
+                <p>Lilly Stoephasius,Skateboarder, Germany</p>
+            </div>
+        </div>
+
+        <form class="form">
+            <div class="form1">
+                <h1>Keep in touch</h1>
+                <h3>Get our travel advice, global views and travel freebies in your inbox</h3>
+                <div><label>First name</label>
+                    <input type="text" id="First">
+                </div>
+                <div><label>Last name</label>
+                    <input type="text" id="last">
+                </div>
+                <div> <label>Email</label>
+                    <input type="text" id="email">
+                </div>
+                <div> <button>Subscribe</button></div>
+            </div>
+        </form>
+
+    </main>
+    <footer class="footer">
+        <div class="nav">
+            <div class="menu1">Shop</div>
+            <div class="menu2">Collections</div>
+            <div class="menu3">Try a Free Guide </div>
+            <div class="menu4">Stories</div>
+            <img class="menu" src="images/logo.png" alt="logo">
+        </div>
+</body>
+
+</html>
