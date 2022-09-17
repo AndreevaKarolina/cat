@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+        integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+</head>
+<link href="bootstrap.css" rel="stylesheet">
+
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light navbar navbar-dark bg-dark ">
+            <a class="navbar-brand" href="#">Start Bootstrap</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-item nav-link" href="#">About</a>
+                    <a class="nav-item nav-link" href="#">Services</a>
+                    <a class="nav-item nav-link disabled" href="#">Contact</a>
+                </div>
+            </div>
+        </nav>
+
+    </header>
+    <main>
+        <div class="cardbig container">
+            <div class="row  justify-content-center">
+                <div class="card-body col-md-6 col-lg-6">
+                    <h1 class="card-title">A Warm Welcome!</h1>
+                    <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem commodi amet
+                        quod
+                        rerum nulla iure inventore porro eius, velit unde aspernatur odio facere necessitatibus natus.
+                        Voluptatum nulla corporis ullam iste?</p>
+                    <a href="#" class="btn btn-primary">Call to action!</a>
+                </div>
+            </div>
+        </div>
+        <div class="row card-deck align-items-between ">
+            <div class="card ">
+                <img class="card-img-top" src="https://via.placeholder.com/500X325" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet animi
+                        voluptatem facere in nostrum, commodi est minima alias iure architecto dolor nam optio corrupti
+                        numquam, earum id impedit corporis non.</p>
+                </div>
+                <div class="card-footer">
+                    <a href="#" class="btn btn-primary">Find Out More!</a>
+                </div>
+            </div>
+            <div class="card ">
+                <img class="card-img-top" src="https://via.placeholder.com/500X325" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque quis magnam
+                        corporis facilis ut odio eaque, suscipit qui asperiores accusantium vero labore. Id, aperiam
+                        eveniet asperiores dolore incidunt numquam quibusdam.
+                    </p>
+                </div>
+                <div class="card-footer">
+                    <a href="#" class="btn btn-primary">Find Out More!</a>
+                </div>
+            </div>
+            <div class="card">
+                <img class="card-img-top" src="https://via.placeholder.com/500X325" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid perferendis,
+                        culpa ad minima expedita soluta in odit ea amet eveniet, quo voluptates laudantium voluptatibus
+                        error tempore eos ipsa ducimus obcaecati.</p>
+                </div>
+                <div class="card-footer">
+                    <a href="#" class="btn btn-primary">Find Out More!</a>
+                </div>
+            </div>
+            <div class="card">
+                <img class="card-img-top" src="https://via.placeholder.com/500X325" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo, aut? Vel
+                        accusamus eaque nam sapiente? Officia perferendis quo animi qui reiciendis asperiores fugiat
+                        voluptatem nisi non impedit, ipsa sequi facilis.</p>
+                </div>
+                <div class="card-footer">
+                    <a href="#" class="btn btn-primary">Find Out More!</a>
+                </div>
+            </div>
+        </div>
+
+    </main>
+    <footer class="text-center pt-4 my-md-5 pt-md-5 border-top navbar-dark bg-dark">
+        <div class="row">
+            <div class="col-12 col-md">
+                <h5 class="copyright">Copyright &#169 Your Website 2019</h5>
+
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous">
+    </script>
+</body>
+
+</html>
